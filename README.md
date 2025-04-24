@@ -1025,7 +1025,10 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- ![309847970-2f5a8645-be73-45eb-840b-8a9d23274fb6](https://github.com/user-attachments/assets/d8f5e163-cc41-44fd-808c-baa67719b8c2)
+ ~$ chmod 755 exread.sh
+ ~$ ./exread.sh
+ Enter your name: saranya
+ Hello saranya, welcome to my program.
 
 cat exread.sh 
 ```bash
