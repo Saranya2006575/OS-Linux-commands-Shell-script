@@ -2,7 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
+Name: saranya.J
+Reg no: 212224240146
 # AIM:
 To practice Linux Commands and Shell Scripting
 
